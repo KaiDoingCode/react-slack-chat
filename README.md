@@ -29,10 +29,6 @@ REACT_APP_FIREBASE_APPID=your Firebase Project App ID
 REACT_APP_FIREBASE_DATABASEURL=your Firebase Project Database URL
 ```
 
-- Navigate into the react-slack-clone-master folder by the command 
-```js
-cd react-slack-clone-master
-```
 - Run `npm install or yarn install`
 - Run `npm start` to start the app
 
