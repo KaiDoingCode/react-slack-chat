@@ -41,16 +41,16 @@ REACT_APP_FIREBASE_DATABASEURL=your Firebase Project Database URL
 
 ## **Application Demo**
 
-### **Login Screen**
+### **Default Screen**
 ![Login Screen](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-1.png)
 
-### **Main Chat Screen**
+### **Emoji Picker Screen**
 ![Main Chat](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-2.png)
 
-### **Image Upload and Emoji Support**
+### **Image Upload**
 ![Image Upload and Emojis](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-3.png)
 
-### **Channel Notifications**
+### **Login screen**
 ![Channel Notifications](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-4.png)
 
 
