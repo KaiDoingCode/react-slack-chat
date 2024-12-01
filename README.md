@@ -1,9 +1,6 @@
 # react-slack-app
 A react slack app clone built with redux and Firebase. The app is deployed to Firebase hosting and database.
 
-## Preview link: 
-Live preview link: https://react-slack-app-3145f.web.app/
-
 ## Tools
 
 - React
@@ -11,6 +8,16 @@ Live preview link: https://react-slack-app-3145f.web.app/
 - Sass and CSS Grid
 - Firebase
 - Boostrap
+
+## Main features
+
+- User authentication with Firebase.
+- Sending and receiving messages instantly with the real-time Firebase Database.
+- Notifications to display new messages in other channels.
+- Uploading and displaying image messages using Firebase Storage.
+- Tracking / showing when users are online / offline.
+- Searching messages within created channels.
+- Add emojis to our messages with an Emoji Picker component.
 
 ## How to use this app on your local machine
 
@@ -31,5 +38,20 @@ REACT_APP_FIREBASE_DATABASEURL=your Firebase Project Database URL
 
 - Run `npm install or yarn install`
 - Run `npm start` to start the app
+
+## **Application Demo**
+
+### **Login Screen**
+![Login Screen](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-1.png)
+
+### **Main Chat Screen**
+![Main Chat](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-2.png)
+
+### **Image Upload and Emoji Support**
+![Image Upload and Emojis](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-3.png)
+
+### **Channel Notifications**
+![Channel Notifications](https://public-info-tuphung.s3.eu-central-1.amazonaws.com/slack-demo-4.png)
+
 
 
